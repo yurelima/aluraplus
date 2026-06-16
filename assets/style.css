@@ -25,7 +25,7 @@ body{
 }
 /* class's */
 .bd-hero-section{
-    background-image: url('.../public/images/Background.png');
+    background-image: url('../public/images/Background.png');
     background-repeat: no-repeat;
     background-size: cover;
     align-items: center;
