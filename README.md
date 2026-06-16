@@ -7,6 +7,10 @@
 <p align=center;>
 <img alt="Static Badge" src="https://img.shields.io/badge/html-white?style=for-the-badge&logo=html5"> <img alt="Static Badge" src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css">
 
+## Acesso ao projeto 🔗
+[<br><sub>Clique aqui</sub>](https://yurelima.github.io/aluraplus/)
+
+  
 ## Tecnologias
 * HTML
 * CSS
